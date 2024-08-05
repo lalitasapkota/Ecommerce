@@ -2,7 +2,7 @@
 
 **Database Name: ecommerce**
 
-**Developed by bidhan phuayl**
+
 
 **Recommended PHP Version 5.6, 7.4**
 
